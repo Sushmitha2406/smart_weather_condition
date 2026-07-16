@@ -129,9 +129,9 @@ python weather.py
 # 📊 Workflow
 
 <p align="center">
- <img width="1920" height="1080" alt="Screenshot 2026-07-16 123406" src="https://github.com/user-attachments/assets/46b08f4d-2c3d-4351-a31f-74bf80b93ecf" />
- <img width="1920" height="1080" alt="Screenshot 2026-07-16 123435" src="https://github.com/user-attachments/assets/d15c6d98-a88f-4125-aca3-43c3355ede4b" />
- <img width="1920" height="1080" alt="Screenshot 2026-07-16 123453" src="https://github.com/user-attachments/assets/4afbee27-a618-43c3-a703-fd73a5865595" />
+ <img width="1902" height="1015" alt="Screenshot 2026-07-16 124229" src="https://github.com/user-attachments/assets/1edcf1f6-fc65-407e-848c-3cb37ab1dc46" />
+ <img width="1906" height="1002" alt="Screenshot 2026-07-16 124315" src="https://github.com/user-attachments/assets/c041accf-1e51-43e4-8870-8cc5513bf88f" />
+ <img width="1887" height="1008" alt="Screenshot 2026-07-16 124353" src="https://github.com/user-attachments/assets/b52e9cda-7eb2-40fe-b38a-74c39026a2c7" />
 </p>
 
 ---
