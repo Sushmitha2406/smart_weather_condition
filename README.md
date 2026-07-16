@@ -129,6 +129,8 @@ python weather.py
 # 📊 Workflow
 
 <p align="center">
+<img width="1920" height="1080" alt="Screenshot 2026-07-16 123453" src="https://github.com/user-attachments/assets/4afbee27-a618-43c3-a703-fd73a5865595" />
+<img src="images/workflow.png" width="900">
 <img src="images/workflow.png" width="900">
 </p>
 
