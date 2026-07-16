@@ -23,7 +23,7 @@ The **Smart Weather Forecast Application** is a desktop application developed us
 ## 🌤️ Current Weather
 
 <p align="center">
-<img src="weather.png" width="850">
+<img src="weather.png" width="50">
 </p>
 
 ---
